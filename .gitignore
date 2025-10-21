@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+env/
+venv/
+
+# Data
+data/
+*.parquet
+*.csv
+*.db
+models/
+mlruns/
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+
+# Secrets
+.env
