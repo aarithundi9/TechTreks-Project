@@ -8,7 +8,6 @@ venv/
 # Data
 data/
 *.parquet
-*.csv
 *.db
 models/
 mlruns/
